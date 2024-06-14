@@ -1,0 +1,1 @@
+This repository contains code for generating Minimum Spanning Trees (MST) using various algorithms. It includes time analysis for each algorithm to determine which one performs best for different types of input.
