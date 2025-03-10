@@ -9,7 +9,6 @@ This project focuses on implementing and analyzing Minimum Spanning Tree (MST) a
 3. [Graph Inputs](#graph-inputs)
 4. [Usage](#usage)
 5. [Results](#results)
-6. [Contributing](#contributing)
 
 ## Introduction
 
