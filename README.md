@@ -3,12 +3,12 @@
 This project focuses on implementing and analyzing Minimum Spanning Tree (MST) algorithms using different types of graph inputs. The project includes implementations of popular MST algorithms such as Kruskal's and Prim's, and it provides a comparison of their performance on dense, sparse, and average graphs.
 
 ## Table of Contents
+1. Introduction
+2. Algorithms
+3. Graph Inputs
+4. Usage
+5. Results
 
-1. [Introduction](#introduction)
-2. [Algorithms](#algorithms)
-3. [Graph Inputs](#graph-inputs)
-4. [Usage](#usage)
-5. [Results](#results)
 
 ## Introduction
 
